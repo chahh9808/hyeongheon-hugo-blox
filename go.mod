@@ -1,3 +1,3 @@
-module github.com/chahh9808/chahh9808-hugo-blox
+module github.com/chahh9808/hyeongheon
 
 go 1.19
